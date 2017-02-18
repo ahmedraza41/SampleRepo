@@ -1,1 +1,4 @@
 first line
+
+added -enfluid in ~/.ssh/config file for host name
+removed indiviual user.name from project .git/config file
